@@ -12,7 +12,7 @@ Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
 
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,cs,py,r,rails,ruby,github,vscode,discord,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,cs,py,r,rails,ruby,github,vscode,discord,gmail" /> <br/><br/>
 <!--
 **RenaHayashi/RenaHayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

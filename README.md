@@ -1,5 +1,7 @@
-## Introduction 👋
-# I'm Rena Hayashi
+## Introduction
+I'm Rena Hayashi
+
+## Tech Stack
 
 <!--
 **RenaHayashi/RenaHayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

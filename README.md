@@ -8,7 +8,7 @@ Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi&theme=discord)](https://github.com/RenaHayashi/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/x/follow/Route66_Rena)](https://x.com/Route66_Rena)
+
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,cs,py,r,rails,ruby,github,vscode,discord,gmail" /> <br /><br />

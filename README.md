@@ -6,9 +6,9 @@ Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenaHayashi&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi&theme=discord)](https://github.com/RenaHayashi/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+[![My Twitter Followers](https://badgen.net/twitter/follow/Route66_Rena)](https://twitter.com/Route66_Rena)
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,cs,py,r,rails,ruby,github,vscode,discord,gmail" /> <br /><br />

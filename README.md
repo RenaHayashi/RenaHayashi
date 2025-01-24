@@ -3,7 +3,7 @@ I'm Rena Hayashi. <br />
 Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,cs,py,r,rails,ruby,github,vscode,discord,gmail" /> <br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,cs,py,r,rails,ruby,github,vscode,discord,gmail" /> <br/>
 
 ## Status
 <p align="left"> 
@@ -14,7 +14,7 @@ Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi&column=9)](https://github.com/RenaHayashi/github-profile-trophy)
 
 ## Contact me
-rena.hayashi.route66[at]gmail.com
+rena.hayashi.route66[at]gmail.com<br/>
 [at]を@に変換してください。
 
 <!--

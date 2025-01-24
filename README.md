@@ -3,10 +3,12 @@ I'm Rena Hayashi. <br />
 Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaHayashi&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RenaHayashi&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaHayashi&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RenaHayashi&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi)](https://github.com/RenaHayashi/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi&theme=onedark&column=7)](https://github.com/RenaHayashi/github-profile-trophy)
+
 
 
 ## Tech Stack

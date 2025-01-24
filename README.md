@@ -1,5 +1,6 @@
 ## Introduction
-I'm Rena Hayashi
+I'm Rena Hayashi. 
+Affiliation: Graduate School of Systems Life Science, Kyushu University
 
 ## Tech Stack
 

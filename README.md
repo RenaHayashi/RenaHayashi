@@ -11,7 +11,7 @@ Affiliation: Graduate School of Systems Life Sciences, Kyushu University<br />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RenaHayashi&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi&column=9)](https://github.com/RenaHayashi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi)](https://github.com/RenaHayashi/github-profile-trophy)
 
 ## Contact me
 rena.hayashi.route66[at]gmail.com<br/>

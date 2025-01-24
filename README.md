@@ -1,6 +1,6 @@
 ## Introduction
 I'm Rena Hayashi. <br />
-Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
+Affiliation: Graduate School of Systems Life Sciences, Kyushu University<br />
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,cs,py,r,rails,ruby,github,vscode,discord,gmail" /> <br/>

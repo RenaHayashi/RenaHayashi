@@ -2,9 +2,10 @@
 I'm Rena Hayashi. <br />
 Affiliation: Graduate School of Systems Life Science, Kyushu University<br />
 
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenaHayashi&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenaHayashi&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaHayashi&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RenaHayashi&theme=onedark&show_icons=ture" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenaHayashi&theme=discord)](https://github.com/RenaHayashi/github-profile-trophy)
 

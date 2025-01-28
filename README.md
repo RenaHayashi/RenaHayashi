@@ -7,7 +7,7 @@ Affiliation: Graduate School of Systems Life Sciences, Kyushu University<br />
 
 ## Status
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaHayashi&layout=compact&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaHayashi&layout=compact&count_private=true&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RenaHayashi&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
